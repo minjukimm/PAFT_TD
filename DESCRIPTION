@@ -14,4 +14,5 @@ Imports:
   dplyr,
   nloptr,
   nnls
-  R.utils
+  R.utils,
+  stats
